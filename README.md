@@ -15,4 +15,4 @@ Get an idea of the project from following videos:
   Users will be farmers and their information will be stored based on their profile.
 ## Tech
   Front-end: Front end will be developed by Java Swing and Eclipse for making interface.  
-  Back-end: Back end development is done in Java and database used is MySQL.
+  Back-end: Back end development is done in Java.
